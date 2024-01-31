@@ -15,7 +15,7 @@ This project showcases geometrical modelling, animation, lighting, texture-mappi
 The most technically difficult aspect of this project so far was to combine animation with fonts in order to create the digital clock.
 
 If you would like to try this demo out for yourself, click on this link!
-https://warren.sewanee.edu/limy0/360/final/study/description.html
+https://warren.sewanee.edu/limy0/360/final/study/study.html
 
 ------------------------------------------------------------------------
 
